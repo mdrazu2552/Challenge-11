@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: underline;
+    
+}
+ul{
+    list-style-type: none;
+}
+
+.mid {
+  width: 452px;
+    margin: auto;  
+   
+}
+.box {
+    width: 452px;
+    margin: auto;
+    border: 1px solid #dadce0;
+    text-align: center;
+    margin-top: 115px;
+    padding: 40px;
+    border-radius: 8px;
+    height: 450px;
+}
+.box img {
+    width: 80px;
+    margin-bottom: 15px;
+}
+.box h3 {
+    font-size: 22px;
+    font-weight: 500;
+}
+.box h4 {
+    color: #202124;
+    font-size: 16px;
+    font-weight: 400;
+    /* margin: 20px 0; */
+    margin-top: -3px;
+    margin-bottom: 20px;
+}
+.box input {
+    width: 100%;
+    padding: 13px 15px;
+    color: #202124;
+    font-size: 18px;
+    border-radius: 4px;
+    border: 1px solid #dadce0;
+}
+
+.ca-1 {
+    display: inline-block;
+    font-size: 14px;
+    position: relative;
+    left: -142px;
+    font-weight: 600;
+    margin-bottom: 37px;
+}
+.box p {
+    color: #202124;
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: -3px;
+   
+}
+.ca-2 {
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+   
+}
+.bottom {
+    margin-top: 35px;
+}
+.bottom a {
+    font-size: 14px;
+    font-weight: 500;
+}
+.c-btn-1 {
+    padding: 4px 23px;
+}
+
+/* footer-section css */
+.footer-left{
+    margin-top: 16px;
+}
+.footer-right{
+    margin-top: 16px;
+}
+.footer-left select {
+    border: 0;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.footer-right ul li{ 
+    display: inline-block;
+}
+.footer-right ul li a {
+    color: #757575;
+    font-size: 13px;
+}
